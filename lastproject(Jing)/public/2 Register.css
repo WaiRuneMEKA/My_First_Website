@@ -1,0 +1,137 @@
+body{
+    background: url(https://images.hdqwalls.com/download/minimal-landscape-4k-ro-1920x1080.jpg);
+    background-size: cover;
+}
+
+div{
+    text-align: center;
+}
+
+div{
+    color: bisque;
+}
+
+div{
+    font-family: 'Mali', cursive;
+}
+
+h3{
+    text-align: center;
+    color: red;
+}
+.one{
+    font-family: 'Mali', cursive;
+    background-color: rgba(130, 61, 165, 0.897);
+    color: rgb(100, 255, 53);
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.two{
+    font-family: 'Mali', cursive;
+    background-color: rgba(130, 61, 165, 0.897);
+    color: rgb(255, 0, 0);
+    font-weight: bold;
+    font-size: 18px;
+}
+
+legend{
+    color: rgb(211, 162, 102);
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 6px solid rgb(71, 46, 99);
+    background-color: rgba(71, 46, 99, 0.445);
+}
+
+.Main{
+    font-family: 'Mali', cursive;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    background-color: rgba(36, 4, 83, 0.459); 
+    color:bisque;  
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar{
+    border-style: none;
+    border-color: rgb(255, 255, 255) ;
+    padding: 15px 20px;
+    background-color: rgba(40, 91, 103, 0.548);
+    text-align: center;
+}
+.navbar ol{
+    font-size: 26px;
+    font-family: 'Mali', cursive;
+    display: inline;
+    color: beige;
+}
+.navbar a{
+    text-decoration: none;
+    margin-left: 20px;
+    color: aliceblue;
+}
+
+fieldset{
+    border-radius: 10px;
+    border: 6px solid rgb(71, 46, 99);
+    background-color: rgba(71, 46, 99, 0.445);
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+.head{
+    border-radius: 10px;
+    border: 6px solid rgb(71, 46, 99);
+    background-color: rgba(71, 46, 99, 0.445);
+    margin-left: 550px;
+    margin-right: 550px;
+    font-size: 40px;
+    text-align: center;
+    color: bisque;
+    font-family: 'Mali', cursive;
+}
+
+i{
+    font-size: 50px;
+    margin-right: 25px;
+    margin-left: 25px;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+.con{
+    background-color: rgba(255, 235, 205, 0.365);
+}
+
+input{
+    border: none;
+    border-radius: 7px;
+}
+
+select{
+    border: none;
+    border-radius: 7px;
+}
+
+textarea{
+    border: none;
+    border-radius: 7px;
+}
+
+button{
+    background-color: rgb(71, 46, 99);
+    border-radius: 9px;
+    border: none;
+    padding: 10px 20px;
+    color: bisque;
+    font-size: 20px;
+    font-family: 'Mali', cursive;
+    font-weight: bold;
+    margin-left: 50px;
+    margin-right: 50px;
+}

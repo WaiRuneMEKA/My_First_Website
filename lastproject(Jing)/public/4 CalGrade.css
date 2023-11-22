@@ -1,0 +1,238 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.Main{
+    font-family: 'Mali', cursive;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    background-color: rgba(36, 4, 83, 0.459); 
+    color:bisque;  
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar{
+    border-style: none;
+    border-color: rgb(255, 255, 255) ;
+    padding: 15px 20px;
+    background-color: rgba(40, 91, 103, 0.548);
+    text-align: center;
+}
+.navbar ol{
+    font-size: 26px;
+    font-family: 'Mali', cursive;
+    display: inline;
+    color: beige;
+}
+.navbar a{
+    text-decoration: none;
+    margin-left: 20px;
+    color: aliceblue;
+}
+
+
+.picture{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.pics{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.pics h2{
+    text-align: center;
+    font-family: 'Mali', cursive;
+    font-size: 36px;   
+}
+.info h2{
+    text-align: center;
+    font-family: 'Mali', cursive;
+    font-size: 36px;   
+}
+.contact{
+    text-align: center;
+    border: groove;
+    border-radius: 40px;
+    padding: 40px;
+    border-width:thick;  
+    padding: 20px;
+    width: 30%;
+    margin: auto;
+    
+}
+.contact h1{
+    font-family: 'Mali', cursive;
+    color: rgb(255, 255, 255);
+}
+.contact a{
+    color: brown;
+    padding-left: 10px;
+    font-size: 40px;
+    
+}
+.reg h1{
+    text-align: center;
+    font-family: 'Mali', cursive;
+    padding-bottom: 20px;
+}
+fieldset{   
+    display: block;
+    text-align: center;
+    border-style: none;
+
+}
+.boxtext fieldset{
+    text-align: center;
+}
+.boxtext{
+    font-size: 16px;
+    background-color: #EEEEEE;
+    width: 30%;
+    margin: auto;
+    margin-top: 50px;
+    border-color: rgb(175, 175, 175) ;
+    border-style: solid;
+    border-width:thick;
+    border-radius: 5%;
+    line-height: 500%; 
+}
+
+.boxtext legend{
+    font-family: 'Mali', cursive;
+    display: block;
+    font-size: 30px;   
+}
+.boxtext label{
+    text-align: center;
+    padding: auto;
+    font-size: 24px;
+    font-family: 'Mali', cursive;
+    padding-bottom: 10%;
+
+}
+.boxtext h1{
+    text-align: center;
+    font-family: 'Mali', cursive;
+}
+.boxtext input{
+    text-align: center;
+}
+
+.calcugrade{
+    font-size: 16px;
+    width: 30%;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 10px;
+    border: 6px solid rgb(71, 46, 99);
+    background-color: rgba(71, 46, 99, 0.445);
+    line-height: 500%;
+}
+
+
+.inCal{
+    text-align: center;
+}
+.inCal input{
+    font-size: 24px;
+}
+.z1{
+    text-align: center;
+}
+
+body{
+    background: url(https://images.hdqwalls.com/download/minimal-landscape-4k-ro-1920x1080.jpg);
+    background-size: cover;
+}
+
+.one{
+    color: bisque;
+}
+
+.grade{
+    color: rgb(182, 162, 140);
+}
+
+.result{
+    font-family: 'Mali', cursive;
+    border-radius: 10px;
+    border: 6px solid rgb(71, 46, 99);
+    background-color: rgba(71, 46, 99, 0.445);
+    text-align: center;
+    margin-left: 700px;
+    margin-right: 700px;
+}
+
+.head{
+    font-family: 'Mali', cursive;
+    border-radius: 10px;
+    border: 6px solid rgb(71, 46, 99);
+    background-color: rgba(71, 46, 99, 0.445);
+    text-align: center;
+    margin-left: 650px;
+    margin-right: 650px;
+    color: bisque;
+    font-size: 25px;
+}
+
+.you{
+    border-radius: 10px;
+    border: 6px solid rgb(71, 46, 99);
+    background-color: rgba(71, 46, 99, 0.445);
+    margin-left: 700px;
+    margin-right: 700px;
+}
+
+.your{
+    border-radius: 10px;
+    border: 6px solid rgb(71, 46, 99);
+    background-color: rgba(71, 46, 99, 0.445);
+    margin-left: 600px;
+    margin-right: 600px;
+}
+
+legend{
+    font-family: 'Mali', cursive;
+    color: rgb(211, 162, 102);
+    font-weight: bold;
+    font-size: 25px;
+    border-radius: 10px;
+    border: 6px solid rgb(71, 46, 99);
+    background-color: rgba(71, 46, 99, 0.445);
+}
+
+button{
+    background-color: rgb(71, 46, 99);
+    border-radius: 9px;
+    border: none;
+    padding: 10px 20px;
+    color: bisque;
+    font-size: 20px;
+    font-family: 'Mali', cursive;
+    font-weight: bold;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+i{
+    font-size: 50px;
+    margin-right: 25px;
+    margin-left: 25px;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+.con{
+    background-color: rgba(255, 235, 205, 0.365);
+    text-align: center;
+}
+
+input{
+    border-radius: 7px;
+    border: none;
+}
